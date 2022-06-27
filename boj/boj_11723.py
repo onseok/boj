@@ -1,3 +1,4 @@
+#https://coarmok.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%B0%B1%EC%A4%80-11723%EB%B2%88-%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%82%B9?category=910483
 import sys
 input = sys.stdin.readline
 
